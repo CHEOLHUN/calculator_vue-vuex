@@ -1,6 +1,6 @@
 # calculator_vue-basic
 
-## Project setup
+## Project
 ```
 yarn install
 ```
